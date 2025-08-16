@@ -15,3 +15,9 @@ A replica of Amazon's e-commerce platform built using modern web technologies.
 - Hosting: Netlify/Vercel/AWS
 
 
+## 🔗 Live Demo
+
+👉 [View Project ](https://drive.google.com/file/d/1kWiMxsk374jDqkkDnDhBObw7p0NB6vL5/view?usp=sharing)  
+
+
+
